@@ -1,4 +1,3 @@
-#!/Library/Frameworks/Python.framework/Versions/3.10/bin/python3
 #chmod +x file.py
 #ls -la
 print('=====Alfredo\'s Homework=====')
@@ -9,4 +8,4 @@ if x:
         print('Alfredo %s' % (x))
 
 print('P.S I love you Nelli <3')
-print('alexis <3 gabby')
+print('alexis <3 gabby...4')
